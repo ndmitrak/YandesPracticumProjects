@@ -1,2 +1,2 @@
-# YandesPracticumProjects
+# YandexPracticumProjects
 Projects for Yandex Practicum
